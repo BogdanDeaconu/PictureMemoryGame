@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <username>Bogdan</username>
+    <photoIndex>10</photoIndex>
+    <games>0</games>
+    <wins>0</wins>
+  </user>
+  <user>
+    <username>Robert</username>
+    <photoIndex>9</photoIndex>
+    <games>0</games>
+    <wins>0</wins>
+  </user>
+  <user>
+    <username>user1</username>
+    <photoIndex>9</photoIndex>
+    <games>0</games>
+    <wins>0</wins>
+  </user>
+</users>
